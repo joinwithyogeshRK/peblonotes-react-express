@@ -1,0 +1,31 @@
+{
+  "user": {
+    "id": "4b770dd4-59ba-4aa9-a681-6b1f77a7772a",
+    "name": "Demo User",
+    "email": "demo@peblo.test"
+  },
+  "note": {
+    "id": "e61ecbfd-e053-4298-bf70-6a8af7f4cb74",
+    "title": "Sprint Planning Notes",
+    "content": "Weekly project planning discussion...",
+    "tags": ["work", "meeting"],
+    "category": "Product",
+    "type": "meeting",
+    "meeting_at": "2026-05-14T12:00:00.000Z",
+    "archived": false,
+    "is_public": true,
+    "share_id": "1f591497-17de-42b2-b8e8-b790bc5f9d42",
+    "ai": {
+      "summary": "Weekly project planning discussion covering UI mockups, API structure, and demo readiness.",
+      "action_items": ["Prepare UI mockups", "Review API structure", "Schedule demo recording"],
+      "suggested_title": "Sprint Planning Notes"
+    }
+  },
+  "insights": {
+    "total_notes": 4,
+    "total_meetings": 1,
+    "most_used_tags": [{ "tag": "work", "count": 3 }],
+    "ai_usage": { "total_generations": 5, "last_7_days": 5 },
+    "weekly_activity": [{ "date": "2026-05-14", "edits": 3 }]
+  }
+}
